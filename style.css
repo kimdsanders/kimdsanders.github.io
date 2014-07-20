@@ -188,3 +188,18 @@ html, body {
 	padding-right: 49%;
 	padding-left: 49%;
 }
+
+.highlight1 {
+	color: blue;
+	text-shadow: 0.3px 0.3px #999999;
+}
+
+.highlight2 {
+	color: green;
+	text-shadow: 0.3px 0.3px #999999;
+}
+
+.highlight3 {
+	color: yellow;
+	text-shadow: 0.5px 0.5px #999999;
+}
